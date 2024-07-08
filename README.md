@@ -1,5 +1,3 @@
-# Business Intelligence Final Module 7: Airline Flight Delay Prediction
-
 ## Introduction
 The goal of this project is to proactively address flight delays using predictive analytics, specifically leveraging deep learning techniques. By identifying patterns and factors contributing to delays, the airline aims to optimize scheduling and reduce disruptions. This project explores the effectiveness of deep learning models using both full and balanced datasets to predict delayed flights.
 
@@ -66,5 +64,32 @@ To enhance Accuracy, Sensitivity, Precision, Recall, and F1-score:
 
 ## Conclusion
 By strategically leveraging these insights, the airline can enhance its predictive capabilities, improve customer satisfaction, and optimize operational efficiency in managing flight delays.
+
+
+<h2>Index:</h2>
+
+<p align="center">
+Figure 1: <br/>
+<img src="https://i.imgur.com/7rzXMCe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+Figure 2:  <br/>
+<img src="https://i.imgur.com/Cb1hcyR.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+Figure 3
+![image](https://github.com/TomasMontoya1234455667889/Business-Intelligence-Project/assets/130658467/95049474-5037-4bb3-8ca3-4a3338a5f072)# Business Intelligence Final Module 7: Airline Flight Delay Prediction
+
+
+Figure 4: <br/>
+<img src="https://i.imgur.com/Cb1hcyR.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+</p>
+
 
 
